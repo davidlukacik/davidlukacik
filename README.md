@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
