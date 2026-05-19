@@ -23,7 +23,7 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
+          
           # Options
           user: davidlukacik
           template: classic
@@ -47,11 +47,8 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: davidlukacik
+          plugin_music_user: .user.login
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://lukacik.xyz/index.xml
           repositories_forks: yes
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://lukacik.xyz/index.xml
