@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 <!--
 **davidlukacik/davidlukacik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
