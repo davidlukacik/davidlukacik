@@ -26,7 +26,7 @@ jobs:
           
           # Options
           user: davidlukacik
-          template: classic
+          template: terminal
           base: header, activity, repositories, metadata
           config_padding: 0, 8 + 13%
           config_timezone: Europe/Stockholm
@@ -41,14 +41,14 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: top
-          plugin_music_provider: spotify
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: .user.login
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://lukacik.xyz/index.xml
+          # plugin_music: yes
+          # plugin_music_limit: 4
+          # plugin_music_mode: top
+          # plugin_music_provider: spotify
+          # plugin_music_time_range: short
+          # plugin_music_top_type: tracks
+          # plugin_music_user: .user.login
+          # plugin_rss: yes
+          # plugin_rss_limit: 4
+          # plugin_rss_source: https://lukacik.xyz/index.xml
           repositories_forks: yes
